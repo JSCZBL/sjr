@@ -1,2 +1,2 @@
 # sjr
-第一个共有github仓库
+第一个公有github仓库
